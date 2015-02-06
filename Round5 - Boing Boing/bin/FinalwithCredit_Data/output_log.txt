@@ -1,0 +1,30 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R9 270 (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2022 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Phidget21.NET.dll (this message is harmless)
+Loading C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Phidget21.NET.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\mbeyri\Desktop\repo\round5\bvw-round5\Project\Builds\FinalwithCredit_Data\Managed\System.Core.dll (this message is harmless)
+Disconnect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

@@ -1,0 +1,1402 @@
+fileFormatVersion: 2
+guid: d61a6ef8c802cd6428410db3ca173266
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: back
+    100002: BOING_text:polySurface1
+    100004: BOING_text:polySurface2
+    100006: BOING_text:polySurface4
+    100008: BOING_text:polySurface5
+    100010: BOING_text:polySurface6
+    100012: BOING_text:transform1
+    100014: cake:curve1
+    100016: cake:group
+    100018: cake:group1
+    100020: cake:group2
+    100022: cake:group3
+    100024: cake:group4
+    100026: cake:group5
+    100028: cake:group6
+    100030: cake:group7
+    100032: cake:group8
+    100034: cake:group9
+    100036: cake:nurbsCube1
+    100038: cake:pasted__group1
+    100040: cake:pasted__group2
+    100042: cake:pasted__group4
+    100044: cake:pasted__group4 1
+    100046: cake:pasted__group5
+    100048: cake:pasted__group6
+    100050: cake:pasted__group7
+    100052: cake:pasted__group7 1
+    100054: cake:pasted__group8
+    100056: cake:pasted__pasted__group1
+    100058: cake:pasted__pasted__group4
+    100060: cake:pasted__pasted__group7
+    100062: cake:pasted__pasted__pasted__pSphere2
+    100064: cake:pasted__pasted__pasted__pSphere3
+    100066: cake:pasted__pasted__pSphere2
+    100068: cake:pasted__pasted__pSphere2 1
+    100070: cake:pasted__pasted__pSphere3
+    100072: cake:pasted__pCube1
+    100074: cake:pasted__polySurface1
+    100076: cake:pasted__polySurface1 1
+    100078: cake:pasted__polySurface3
+    100080: cake:pasted__polySurface4
+    100082: cake:pasted__polySurface4 1
+    100084: cake:pasted__pSphere2
+    100086: cake:pasted__pSphere3
+    100088: cake:pasted__transform1
+    100090: cake:pasted__transform2
+    100092: cake:pasted__transform3
+    100094: cake:pCube1
+    100096: cake:pCube2
+    100098: cake:polySurface3
+    100100: cake:polySurface4
+    100102: cake:transform1
+    100104: cake:transform10
+    100106: cake:transform11
+    100108: cake:transform12
+    100110: cake:transform13
+    100112: cake:transform2
+    100114: cake:transform3
+    100116: cake:transform4
+    100118: cake:transform5
+    100120: cake:transform6
+    100122: cake:transform7
+    100124: cake:transform8
+    100126: cake:transform9
+    100128: cloud:group
+    100130: cloud:group1
+    100132: cloud:group10
+    100134: cloud:group11
+    100136: cloud:group12
+    100138: cloud:group2
+    100140: cloud:group3
+    100142: cloud:group4
+    100144: cloud:group5
+    100146: cloud:group6
+    100148: cloud:group7
+    100150: cloud:group8
+    100152: cloud:group9
+    100154: cloud:pasted__group
+    100156: cloud:pasted__group 1
+    100158: cloud:pasted__group 2
+    100160: cloud:pasted__group1
+    100162: cloud:pasted__group1 1
+    100164: cloud:pasted__group2
+    100166: cloud:pasted__group2 1
+    100168: cloud:pasted__group2 2
+    100170: cloud:pasted__group4
+    100172: cloud:pasted__group7
+    100174: cloud:pasted__group9
+    100176: cloud:pasted__pasted__group
+    100178: cloud:pasted__pasted__group 1
+    100180: cloud:pasted__pasted__group1
+    100182: cloud:pasted__pasted__group1 1
+    100184: cloud:pasted__pasted__group1 2
+    100186: cloud:pasted__pasted__group1 3
+    100188: cloud:pasted__pasted__group2
+    100190: cloud:pasted__pasted__group7
+    100192: cloud:pasted__pasted__pasted__group
+    100194: cloud:pasted__pasted__pasted__group 1
+    100196: cloud:pasted__pasted__pasted__group 2
+    100198: cloud:pasted__pasted__pasted__group 3
+    100200: cloud:pasted__pasted__pasted__group1
+    100202: cloud:pasted__pasted__pasted__group2
+    100204: cloud:pasted__pasted__pasted__pasted__group
+    100206: cloud:pasted__pasted__pasted__pasted__group1
+    100208: cloud:pasted__pasted__pasted__pasted__pasted__group
+    100210: cloud:pasted__pasted__pasted__pasted__pasted__pSphere1
+    100212: cloud:pasted__pasted__pasted__pasted__pSphere1
+    100214: cloud:pasted__pasted__pasted__pasted__pSphere1 1
+    100216: cloud:pasted__pasted__pasted__pSphere1
+    100218: cloud:transform1
+    100220: cloud:transform2
+    100222: cloud:transform3
+    100224: cloud:transform4
+    100226: cupcake:back
+    100228: cupcake:cupcake:polySurface1
+    100230: cupcake:cupcake:transform1
+    100232: cupcake:cupcake:transform10
+    100234: cupcake:cupcake:transform11
+    100236: cupcake:cupcake:transform12
+    100238: cupcake:cupcake:transform13
+    100240: cupcake:cupcake:transform14
+    100242: cupcake:cupcake:transform15
+    100244: cupcake:cupcake:transform16
+    100246: cupcake:cupcake:transform17
+    100248: cupcake:cupcake:transform18
+    100250: cupcake:cupcake:transform19
+    100252: cupcake:cupcake:transform2
+    100254: cupcake:cupcake:transform20
+    100256: cupcake:cupcake:transform21
+    100258: cupcake:cupcake:transform22
+    100260: cupcake:cupcake:transform23
+    100262: cupcake:cupcake:transform24
+    100264: cupcake:cupcake:transform25
+    100266: cupcake:cupcake:transform3
+    100268: cupcake:cupcake:transform4
+    100270: cupcake:cupcake:transform5
+    100272: cupcake:cupcake:transform6
+    100274: cupcake:cupcake:transform7
+    100276: cupcake:cupcake:transform8
+    100278: cupcake:cupcake:transform9
+    100280: cupcake:dounut:polySurface4
+    100282: cupcake:dounut:transform1
+    100284: cupcake:dounut:transform10
+    100286: cupcake:dounut:transform11
+    100288: cupcake:dounut:transform12
+    100290: cupcake:dounut:transform13
+    100292: cupcake:dounut:transform14
+    100294: cupcake:dounut:transform15
+    100296: cupcake:dounut:transform16
+    100298: cupcake:dounut:transform17
+    100300: cupcake:dounut:transform18
+    100302: cupcake:dounut:transform19
+    100304: cupcake:dounut:transform2
+    100306: cupcake:dounut:transform20
+    100308: cupcake:dounut:transform21
+    100310: cupcake:dounut:transform22
+    100312: cupcake:dounut:transform23
+    100314: cupcake:dounut:transform24
+    100316: cupcake:dounut:transform25
+    100318: cupcake:dounut:transform3
+    100320: cupcake:dounut:transform4
+    100322: cupcake:dounut:transform5
+    100324: cupcake:dounut:transform6
+    100326: cupcake:dounut:transform7
+    100328: cupcake:dounut:transform8
+    100330: cupcake:dounut:transform9
+    100332: cupcake:group
+    100334: cupcake:group1
+    100336: cupcake:group10
+    100338: cupcake:group11
+    100340: cupcake:group12
+    100342: cupcake:group13
+    100344: cupcake:group14
+    100346: cupcake:group15
+    100348: cupcake:group16
+    100350: cupcake:group17
+    100352: cupcake:group18
+    100354: cupcake:group19
+    100356: cupcake:group2
+    100358: cupcake:group20
+    100360: cupcake:group21
+    100362: cupcake:group22
+    100364: cupcake:group23
+    100366: cupcake:group24
+    100368: cupcake:group3
+    100370: cupcake:group4
+    100372: cupcake:group5
+    100374: cupcake:group6
+    100376: cupcake:group7
+    100378: cupcake:group8
+    100380: cupcake:group9
+    100382: cupcake:pasted__group
+    100384: cupcake:pasted__group1
+    100386: cupcake:pasted__group1 1
+    100388: cupcake:pasted__group10
+    100390: cupcake:pasted__group14
+    100392: cupcake:pasted__group14 1
+    100394: cupcake:pasted__group14 2
+    100396: cupcake:pasted__group18
+    100398: cupcake:pasted__group19
+    100400: cupcake:pasted__group2
+    100402: cupcake:pasted__group3
+    100404: cupcake:pasted__group3 1
+    100406: cupcake:pasted__group3 2
+    100408: cupcake:pasted__group3 3
+    100410: cupcake:pasted__group3 4
+    100412: cupcake:pasted__group3 5
+    100414: cupcake:pasted__group4
+    100416: cupcake:pasted__group5
+    100418: cupcake:pasted__group5 1
+    100420: cupcake:pasted__group5 2
+    100422: cupcake:pasted__group6
+    100424: cupcake:pasted__group7
+    100426: cupcake:pasted__group8
+    100428: cupcake:pasted__group9
+    100430: cupcake:pasted__group9 1
+    100432: cupcake:pasted__nurbsToPoly1
+    100434: cupcake:pasted__pasted__group2
+    100436: cupcake:pasted__pasted__group3
+    100438: cupcake:pasted__pasted__group3 1
+    100440: cupcake:pasted__pasted__group3 2
+    100442: cupcake:pasted__pasted__group3 3
+    100444: cupcake:pasted__pasted__group3 4
+    100446: cupcake:pasted__pasted__group5
+    100448: cupcake:pasted__pasted__group8
+    100450: cupcake:pasted__pasted__group8 1
+    100452: cupcake:pasted__pasted__pasted__group3
+    100454: cupcake:pasted__pasted__pasted__pCube7
+    100456: cupcake:pasted__pasted__pasted__pSphere1
+    100458: cupcake:pasted__pasted__pasted__pSphere1 1
+    100460: cupcake:pasted__pasted__pCube2
+    100462: cupcake:pasted__pasted__pCube7
+    100464: cupcake:pasted__pasted__pCube7 1
+    100466: cupcake:pasted__pasted__pSphere1
+    100468: cupcake:pasted__pasted__pSphere1 1
+    100470: cupcake:pasted__pCube1
+    100472: cupcake:pasted__pCube1 1
+    100474: cupcake:pasted__pCube2
+    100476: cupcake:pasted__pCube2 1
+    100478: cupcake:pasted__pCube3
+    100480: cupcake:pasted__pCube3 1
+    100482: cupcake:pasted__pCube4
+    100484: cupcake:pasted__pCube4 1
+    100486: cupcake:pasted__pCube5
+    100488: cupcake:pasted__pCube5 1
+    100490: cupcake:pasted__pCube6
+    100492: cupcake:pasted__pCube7
+    100494: cupcake:pasted__pCylinder1
+    100496: cupcake:pasted__pCylinder2
+    100498: cupcake:pasted__pCylinder3
+    100500: cupcake:pasted__pCylinder3 1
+    100502: cupcake:pasted__pCylinder3 2
+    100504: cupcake:pasted__pCylinder4
+    100506: cupcake:pasted__pCylinder4 1
+    100508: cupcake:pasted__pSphere1
+    100510: cupcake:pasted__pSphere1 1
+    100512: cupcake:pasted__pSphere2
+    100514: cupcake:pasted__transform1
+    100516: cupcake:pasted__transform10
+    100518: cupcake:pasted__transform11
+    100520: cupcake:pasted__transform12
+    100522: cupcake:pasted__transform13
+    100524: cupcake:pasted__transform14
+    100526: cupcake:pasted__transform15
+    100528: cupcake:pasted__transform2
+    100530: cupcake:pasted__transform3
+    100532: cupcake:pasted__transform3 1
+    100534: cupcake:pasted__transform3 2
+    100536: cupcake:pasted__transform4
+    100538: cupcake:pasted__transform4 1
+    100540: cupcake:pasted__transform4 2
+    100542: cupcake:pasted__transform5
+    100544: cupcake:pasted__transform6
+    100546: cupcake:pasted__transform7
+    100548: cupcake:pasted__transform8
+    100550: cupcake:pasted__transform9
+    100552: cupcake:pCube4
+    100554: cupcake:pCube5
+    100556: cupcake:pCube6
+    100558: cupcake:pCube7
+    100560: cupcake:pCylinder1
+    100562: cupcake:pCylinder2
+    100564: cupcake:pCylinder3
+    100566: cupcake:pCylinder4
+    100568: cupcake:pCylinder5
+    100570: cupcake:pCylinder6
+    100572: cupcake:pCylinder7
+    100574: cupcake:pCylinder8
+    100576: cupcake:polySurface1
+    100578: cupcake:polySurface10
+    100580: cupcake:polySurface11
+    100582: cupcake:polySurface12
+    100584: cupcake:polySurface13
+    100586: cupcake:polySurface14
+    100588: cupcake:polySurface15
+    100590: cupcake:polySurface16
+    100592: cupcake:polySurface17
+    100594: cupcake:polySurface18
+    100596: cupcake:polySurface19
+    100598: cupcake:polySurface2
+    100600: cupcake:polySurface20
+    100602: cupcake:polySurface21
+    100604: cupcake:polySurface22
+    100606: cupcake:polySurface23
+    100608: cupcake:polySurface24
+    100610: cupcake:polySurface25
+    100612: cupcake:polySurface3
+    100614: cupcake:polySurface4
+    100616: cupcake:polySurface5
+    100618: cupcake:polySurface6
+    100620: cupcake:polySurface7
+    100622: cupcake:polySurface8
+    100624: cupcake:polySurface9
+    100626: cupcake:transform1
+    100628: cupcake:transform10
+    100630: cupcake:transform11
+    100632: cupcake:transform12
+    100634: cupcake:transform13
+    100636: cupcake:transform14
+    100638: cupcake:transform15
+    100640: cupcake:transform2
+    100642: cupcake:transform3
+    100644: cupcake:transform4
+    100646: cupcake:transform5
+    100648: cupcake:transform6
+    100650: cupcake:transform7
+    100652: cupcake:transform8
+    100654: cupcake:transform9
+    100656: dounut:back
+    100658: dounut:group
+    100660: dounut:group1
+    100662: dounut:group10
+    100664: dounut:group11
+    100666: dounut:group2
+    100668: dounut:group3
+    100670: dounut:group4
+    100672: dounut:group5
+    100674: dounut:group6
+    100676: dounut:group7
+    100678: dounut:group8
+    100680: dounut:group9
+    100682: dounut:pasted__group
+    100684: dounut:pasted__group 1
+    100686: dounut:pasted__group1
+    100688: dounut:pasted__group1 1
+    100690: dounut:pasted__group2
+    100692: dounut:pasted__group2 1
+    100694: dounut:pasted__group3
+    100696: dounut:pasted__group4
+    100698: dounut:pasted__group4 1
+    100700: dounut:pasted__group4 2
+    100702: dounut:pasted__group4 3
+    100704: dounut:pasted__group6
+    100706: dounut:pasted__group6 1
+    100708: dounut:pasted__group8
+    100710: dounut:pasted__pasted__group
+    100712: dounut:pasted__pasted__group1
+    100714: dounut:pasted__pasted__group1 1
+    100716: dounut:pasted__pasted__group2
+    100718: dounut:pasted__pasted__group2 1
+    100720: dounut:pasted__pasted__group3
+    100722: dounut:pasted__pasted__group3 1
+    100724: dounut:pasted__pasted__group4
+    100726: dounut:pasted__pasted__group4 1
+    100728: dounut:pasted__pasted__group4 2
+    100730: dounut:pasted__pasted__pasted__group2
+    100732: dounut:pasted__pasted__pasted__group2 1
+    100734: dounut:pasted__pasted__pasted__group3
+    100736: dounut:pasted__pasted__pasted__group3 1
+    100738: dounut:pasted__pasted__pasted__pasted__group2
+    100740: dounut:pasted__pasted__pasted__pasted__group2 1
+    100742: dounut:pasted__pasted__pasted__pasted__pasted__pCylinder1
+    100744: dounut:pasted__pasted__pasted__pasted__pasted__pCylinder1 1
+    100746: dounut:pasted__pasted__pasted__pasted__pCylinder1
+    100748: dounut:pasted__pasted__pasted__pasted__pCylinder1 1
+    100750: dounut:pasted__pasted__pasted__pCylinder1
+    100752: dounut:pasted__pasted__pasted__pCylinder1 1
+    100754: dounut:pasted__pasted__pasted__pCylinder1 2
+    100756: dounut:pasted__pasted__pasted__pCylinder1 3
+    100758: dounut:pasted__pasted__pasted__pCylinder1 4
+    100760: dounut:pasted__pasted__pasted__pCylinder1 5
+    100762: dounut:pasted__pasted__pCylinder1
+    100764: dounut:pasted__pasted__pCylinder1 1
+    100766: dounut:pasted__pasted__pCylinder1 2
+    100768: dounut:pasted__pasted__pCylinder1 3
+    100770: dounut:pasted__pasted__pCylinder1 4
+    100772: dounut:pasted__pasted__pCylinder1 5
+    100774: dounut:pasted__pasted__pCylinder1 6
+    100776: dounut:pasted__pCylinder1
+    100778: dounut:pasted__pCylinder1 1
+    100780: dounut:pasted__pCylinder1 2
+    100782: dounut:pasted__pCylinder1 3
+    100784: dounut:pasted__pCylinder1 4
+    100786: dounut:pCylinder1
+    100788: dounut:polySurface2
+    100790: dounut:polySurface2 1
+    100792: dounut:polySurface3
+    100794: dounut:polySurface4
+    100796: dounut:pTorus1
+    100798: dounut:pTorus2
+    100800: dounut:transform1
+    100802: dounut:transform2
+    100804: dounut:transform3
+    100806: dounut:transform4
+    100808: ginger1:group
+    100810: ginger1:group1
+    100812: ginger1:group10
+    100814: ginger1:group2
+    100816: ginger1:group3
+    100818: ginger1:group4
+    100820: ginger1:group5
+    100822: ginger1:group6
+    100824: ginger1:group7
+    100826: ginger1:group8
+    100828: ginger1:group9
+    100830: ginger1:pasted__group2
+    100832: ginger1:pasted__group4
+    100834: ginger1:pasted__group5
+    100836: ginger1:pasted__group8
+    100838: ginger1:pasted__group8 1
+    100840: ginger1:pasted__pasted__group4
+    100842: ginger1:pasted__pasted__pCube7
+    100844: ginger1:pasted__pasted__pSphere1
+    100846: ginger1:pasted__pasted__pSphere2
+    100848: ginger1:pasted__pCube1
+    100850: ginger1:pasted__pCube7
+    100852: ginger1:pasted__pSphere1
+    100854: ginger1:pasted__pSphere2
+    100856: ginger1:pCube1
+    100858: ginger1:pCube2
+    100860: ginger1:pCube3
+    100862: ginger1:pCube4
+    100864: ginger1:pCube5
+    100866: ginger1:pCube6
+    100868: ginger1:pCube7
+    100870: ginger1:pSphere1
+    100872: ginger1:transform1
+    100874: ginger1:transform2
+    100876: ginger1:transform3
+    100878: ginger1:transform4
+    100880: group
+    100882: group 1
+    100884: group1
+    100886: group10
+    100888: group11
+    100890: group12
+    100892: group13
+    100894: group14
+    100896: group2
+    100898: group3
+    100900: group4
+    100902: group5
+    100904: group6
+    100906: group7
+    100908: group8
+    100910: group9
+    100912: pasted__group
+    100914: pasted__group 1
+    100916: pasted__group 2
+    100918: pasted__group1
+    100920: pasted__group1 1
+    100922: pasted__group10
+    100924: pasted__group11
+    100926: pasted__group12
+    100928: pasted__group13
+    100930: pasted__group14
+    100932: pasted__group15
+    100934: pasted__group16
+    100936: pasted__group17
+    100938: pasted__group2
+    100940: pasted__group2 1
+    100942: pasted__group2 2
+    100944: pasted__group3
+    100946: pasted__group3 1
+    100948: pasted__group3 2
+    100950: pasted__group4
+    100952: pasted__group5
+    100954: pasted__group7
+    100956: pasted__group9
+    100958: pasted__pasted__group
+    100960: pasted__pasted__group 1
+    100962: pasted__pasted__group 2
+    100964: pasted__pasted__group 3
+    100966: pasted__pasted__group1
+    100968: pasted__pasted__group1 1
+    100970: pasted__pasted__group1 2
+    100972: pasted__pasted__group1 3
+    100974: pasted__pasted__group1 4
+    100976: pasted__pasted__group1 5
+    100978: pasted__pasted__group1 6
+    100980: pasted__pasted__group2
+    100982: pasted__pasted__group3
+    100984: pasted__pasted__group7
+    100986: pasted__pasted__group8
+    100988: pasted__pasted__pasted__group
+    100990: pasted__pasted__pasted__group 1
+    100992: pasted__pasted__pasted__group 2
+    100994: pasted__pasted__pasted__group 3
+    100996: pasted__pasted__pasted__group 4
+    100998: pasted__pasted__pasted__group 5
+    101000: pasted__pasted__pasted__group 6
+    101002: pasted__pasted__pasted__group 7
+    101004: pasted__pasted__pasted__group1
+    101006: pasted__pasted__pasted__group2
+    101008: pasted__pasted__pasted__pasted__group
+    101010: pasted__pasted__pasted__pasted__group1
+    101012: pasted__pasted__pasted__pasted__pasted__group
+    101014: pasted__pasted__pasted__pasted__pasted__pSphere1
+    101016: pasted__pasted__pasted__pasted__pSphere1
+    101018: pasted__pasted__pasted__pasted__pSphere1 1
+    101020: pasted__pasted__pasted__pasted__pSphere1 2
+    101022: pasted__pasted__pasted__pasted__pSphere1 3
+    101024: pasted__pasted__pasted__pSphere1
+    101026: pCube1
+    101028: pCube10
+    101030: pCube11
+    101032: pCube4
+    101034: pCube5
+    101036: pCube6
+    101038: pCube7
+    101040: pCube8
+    101042: pCube9
+    101044: pCylinder3
+    101046: pCylinder4
+    101048: polySurface2
+    101050: polySurface3
+    101052: polySurface4
+    101054: polySurface5
+    101056: polySurface6
+    101058: pudi:group
+    101060: pudi:group1
+    101062: pudi:group10
+    101064: pudi:group11
+    101066: pudi:group12
+    101068: pudi:group13
+    101070: pudi:group2
+    101072: pudi:group3
+    101074: pudi:group4
+    101076: pudi:group5
+    101078: pudi:group6
+    101080: pudi:group7
+    101082: pudi:group8
+    101084: pudi:group9
+    101086: pudi:nurbsToPoly1
+    101088: pudi:nurbsToPoly2
+    101090: pudi:pasted__group10
+    101092: pudi:pasted__group12
+    101094: pudi:pasted__group18
+    101096: pudi:pasted__group19
+    101098: pudi:pasted__group2
+    101100: pudi:pasted__group21
+    101102: pudi:pasted__group22
+    101104: pudi:pasted__group6
+    101106: pudi:pasted__group6 1
+    101108: pudi:pasted__group9
+    101110: pudi:pasted__nurbsToPoly1
+    101112: pudi:pasted__nurbsToPoly1 1
+    101114: pudi:pasted__pasted__group18
+    101116: pudi:pasted__pasted__group19
+    101118: pudi:pasted__pasted__group9
+    101120: pudi:pasted__pasted__nurbsToPoly1
+    101122: pudi:pasted__pasted__pasted__pCube1
+    101124: pudi:pasted__pasted__pasted__pCube1 1
+    101126: pudi:pasted__pasted__pasted__pSphere2
+    101128: pudi:pasted__pasted__pCube1
+    101130: pudi:pasted__pasted__pCube1 1
+    101132: pudi:pasted__pasted__pCylinder3
+    101134: pudi:pasted__pasted__pCylinder4
+    101136: pudi:pasted__pasted__pCylinder5
+    101138: pudi:pasted__pasted__pSphere2
+    101140: pudi:pasted__pasted__pSphere2 1
+    101142: pudi:pasted__pasted__transform1
+    101144: pudi:pasted__pasted__transform3
+    101146: pudi:pasted__pasted__transform4
+    101148: pudi:pasted__pCube1
+    101150: pudi:pasted__pCube1 1
+    101152: pudi:pasted__pCube3
+    101154: pudi:pasted__pCube3 1
+    101156: pudi:pasted__pSphere1
+    101158: pudi:pasted__pSphere2
+    101160: pudi:pasted__pSphere2 1
+    101162: pudi:pasted__transform1
+    101164: pudi:pasted__transform1 1
+    101166: pudi:polySurface1
+    101168: pudi:pSphere2
+    101170: pudi:transform1
+    101172: pudi:transform10
+    101174: pudi:transform11
+    101176: pudi:transform12
+    101178: pudi:transform13
+    101180: pudi:transform14
+    101182: pudi:transform15
+    101184: pudi:transform16
+    101186: pudi:transform17
+    101188: pudi:transform18
+    101190: pudi:transform19
+    101192: pudi:transform2
+    101194: pudi:transform3
+    101196: pudi:transform4
+    101198: pudi:transform5
+    101200: pudi:transform6
+    101202: pudi:transform7
+    101204: pudi:transform8
+    101206: pudi:transform9
+    101208: //RootNode
+    101210: transform1
+    101212: transform2
+    101214: transform3
+    101216: transform4
+    400000: back
+    400002: BOING_text:polySurface1
+    400004: BOING_text:polySurface2
+    400006: BOING_text:polySurface4
+    400008: BOING_text:polySurface5
+    400010: BOING_text:polySurface6
+    400012: BOING_text:transform1
+    400014: cake:curve1
+    400016: cake:group
+    400018: cake:group1
+    400020: cake:group2
+    400022: cake:group3
+    400024: cake:group4
+    400026: cake:group5
+    400028: cake:group6
+    400030: cake:group7
+    400032: cake:group8
+    400034: cake:group9
+    400036: cake:nurbsCube1
+    400038: cake:pasted__group1
+    400040: cake:pasted__group2
+    400042: cake:pasted__group4
+    400044: cake:pasted__group4 1
+    400046: cake:pasted__group5
+    400048: cake:pasted__group6
+    400050: cake:pasted__group7
+    400052: cake:pasted__group7 1
+    400054: cake:pasted__group8
+    400056: cake:pasted__pasted__group1
+    400058: cake:pasted__pasted__group4
+    400060: cake:pasted__pasted__group7
+    400062: cake:pasted__pasted__pasted__pSphere2
+    400064: cake:pasted__pasted__pasted__pSphere3
+    400066: cake:pasted__pasted__pSphere2
+    400068: cake:pasted__pasted__pSphere2 1
+    400070: cake:pasted__pasted__pSphere3
+    400072: cake:pasted__pCube1
+    400074: cake:pasted__polySurface1
+    400076: cake:pasted__polySurface1 1
+    400078: cake:pasted__polySurface3
+    400080: cake:pasted__polySurface4
+    400082: cake:pasted__polySurface4 1
+    400084: cake:pasted__pSphere2
+    400086: cake:pasted__pSphere3
+    400088: cake:pasted__transform1
+    400090: cake:pasted__transform2
+    400092: cake:pasted__transform3
+    400094: cake:pCube1
+    400096: cake:pCube2
+    400098: cake:polySurface3
+    400100: cake:polySurface4
+    400102: cake:transform1
+    400104: cake:transform10
+    400106: cake:transform11
+    400108: cake:transform12
+    400110: cake:transform13
+    400112: cake:transform2
+    400114: cake:transform3
+    400116: cake:transform4
+    400118: cake:transform5
+    400120: cake:transform6
+    400122: cake:transform7
+    400124: cake:transform8
+    400126: cake:transform9
+    400128: cloud:group
+    400130: cloud:group1
+    400132: cloud:group10
+    400134: cloud:group11
+    400136: cloud:group12
+    400138: cloud:group2
+    400140: cloud:group3
+    400142: cloud:group4
+    400144: cloud:group5
+    400146: cloud:group6
+    400148: cloud:group7
+    400150: cloud:group8
+    400152: cloud:group9
+    400154: cloud:pasted__group
+    400156: cloud:pasted__group 1
+    400158: cloud:pasted__group 2
+    400160: cloud:pasted__group1
+    400162: cloud:pasted__group1 1
+    400164: cloud:pasted__group2
+    400166: cloud:pasted__group2 1
+    400168: cloud:pasted__group2 2
+    400170: cloud:pasted__group4
+    400172: cloud:pasted__group7
+    400174: cloud:pasted__group9
+    400176: cloud:pasted__pasted__group
+    400178: cloud:pasted__pasted__group 1
+    400180: cloud:pasted__pasted__group1
+    400182: cloud:pasted__pasted__group1 1
+    400184: cloud:pasted__pasted__group1 2
+    400186: cloud:pasted__pasted__group1 3
+    400188: cloud:pasted__pasted__group2
+    400190: cloud:pasted__pasted__group7
+    400192: cloud:pasted__pasted__pasted__group
+    400194: cloud:pasted__pasted__pasted__group 1
+    400196: cloud:pasted__pasted__pasted__group 2
+    400198: cloud:pasted__pasted__pasted__group 3
+    400200: cloud:pasted__pasted__pasted__group1
+    400202: cloud:pasted__pasted__pasted__group2
+    400204: cloud:pasted__pasted__pasted__pasted__group
+    400206: cloud:pasted__pasted__pasted__pasted__group1
+    400208: cloud:pasted__pasted__pasted__pasted__pasted__group
+    400210: cloud:pasted__pasted__pasted__pasted__pasted__pSphere1
+    400212: cloud:pasted__pasted__pasted__pasted__pSphere1
+    400214: cloud:pasted__pasted__pasted__pasted__pSphere1 1
+    400216: cloud:pasted__pasted__pasted__pSphere1
+    400218: cloud:transform1
+    400220: cloud:transform2
+    400222: cloud:transform3
+    400224: cloud:transform4
+    400226: cupcake:back
+    400228: cupcake:cupcake:polySurface1
+    400230: cupcake:cupcake:transform1
+    400232: cupcake:cupcake:transform10
+    400234: cupcake:cupcake:transform11
+    400236: cupcake:cupcake:transform12
+    400238: cupcake:cupcake:transform13
+    400240: cupcake:cupcake:transform14
+    400242: cupcake:cupcake:transform15
+    400244: cupcake:cupcake:transform16
+    400246: cupcake:cupcake:transform17
+    400248: cupcake:cupcake:transform18
+    400250: cupcake:cupcake:transform19
+    400252: cupcake:cupcake:transform2
+    400254: cupcake:cupcake:transform20
+    400256: cupcake:cupcake:transform21
+    400258: cupcake:cupcake:transform22
+    400260: cupcake:cupcake:transform23
+    400262: cupcake:cupcake:transform24
+    400264: cupcake:cupcake:transform25
+    400266: cupcake:cupcake:transform3
+    400268: cupcake:cupcake:transform4
+    400270: cupcake:cupcake:transform5
+    400272: cupcake:cupcake:transform6
+    400274: cupcake:cupcake:transform7
+    400276: cupcake:cupcake:transform8
+    400278: cupcake:cupcake:transform9
+    400280: cupcake:dounut:polySurface4
+    400282: cupcake:dounut:transform1
+    400284: cupcake:dounut:transform10
+    400286: cupcake:dounut:transform11
+    400288: cupcake:dounut:transform12
+    400290: cupcake:dounut:transform13
+    400292: cupcake:dounut:transform14
+    400294: cupcake:dounut:transform15
+    400296: cupcake:dounut:transform16
+    400298: cupcake:dounut:transform17
+    400300: cupcake:dounut:transform18
+    400302: cupcake:dounut:transform19
+    400304: cupcake:dounut:transform2
+    400306: cupcake:dounut:transform20
+    400308: cupcake:dounut:transform21
+    400310: cupcake:dounut:transform22
+    400312: cupcake:dounut:transform23
+    400314: cupcake:dounut:transform24
+    400316: cupcake:dounut:transform25
+    400318: cupcake:dounut:transform3
+    400320: cupcake:dounut:transform4
+    400322: cupcake:dounut:transform5
+    400324: cupcake:dounut:transform6
+    400326: cupcake:dounut:transform7
+    400328: cupcake:dounut:transform8
+    400330: cupcake:dounut:transform9
+    400332: cupcake:group
+    400334: cupcake:group1
+    400336: cupcake:group10
+    400338: cupcake:group11
+    400340: cupcake:group12
+    400342: cupcake:group13
+    400344: cupcake:group14
+    400346: cupcake:group15
+    400348: cupcake:group16
+    400350: cupcake:group17
+    400352: cupcake:group18
+    400354: cupcake:group19
+    400356: cupcake:group2
+    400358: cupcake:group20
+    400360: cupcake:group21
+    400362: cupcake:group22
+    400364: cupcake:group23
+    400366: cupcake:group24
+    400368: cupcake:group3
+    400370: cupcake:group4
+    400372: cupcake:group5
+    400374: cupcake:group6
+    400376: cupcake:group7
+    400378: cupcake:group8
+    400380: cupcake:group9
+    400382: cupcake:pasted__group
+    400384: cupcake:pasted__group1
+    400386: cupcake:pasted__group1 1
+    400388: cupcake:pasted__group10
+    400390: cupcake:pasted__group14
+    400392: cupcake:pasted__group14 1
+    400394: cupcake:pasted__group14 2
+    400396: cupcake:pasted__group18
+    400398: cupcake:pasted__group19
+    400400: cupcake:pasted__group2
+    400402: cupcake:pasted__group3
+    400404: cupcake:pasted__group3 1
+    400406: cupcake:pasted__group3 2
+    400408: cupcake:pasted__group3 3
+    400410: cupcake:pasted__group3 4
+    400412: cupcake:pasted__group3 5
+    400414: cupcake:pasted__group4
+    400416: cupcake:pasted__group5
+    400418: cupcake:pasted__group5 1
+    400420: cupcake:pasted__group5 2
+    400422: cupcake:pasted__group6
+    400424: cupcake:pasted__group7
+    400426: cupcake:pasted__group8
+    400428: cupcake:pasted__group9
+    400430: cupcake:pasted__group9 1
+    400432: cupcake:pasted__nurbsToPoly1
+    400434: cupcake:pasted__pasted__group2
+    400436: cupcake:pasted__pasted__group3
+    400438: cupcake:pasted__pasted__group3 1
+    400440: cupcake:pasted__pasted__group3 2
+    400442: cupcake:pasted__pasted__group3 3
+    400444: cupcake:pasted__pasted__group3 4
+    400446: cupcake:pasted__pasted__group5
+    400448: cupcake:pasted__pasted__group8
+    400450: cupcake:pasted__pasted__group8 1
+    400452: cupcake:pasted__pasted__pasted__group3
+    400454: cupcake:pasted__pasted__pasted__pCube7
+    400456: cupcake:pasted__pasted__pasted__pSphere1
+    400458: cupcake:pasted__pasted__pasted__pSphere1 1
+    400460: cupcake:pasted__pasted__pCube2
+    400462: cupcake:pasted__pasted__pCube7
+    400464: cupcake:pasted__pasted__pCube7 1
+    400466: cupcake:pasted__pasted__pSphere1
+    400468: cupcake:pasted__pasted__pSphere1 1
+    400470: cupcake:pasted__pCube1
+    400472: cupcake:pasted__pCube1 1
+    400474: cupcake:pasted__pCube2
+    400476: cupcake:pasted__pCube2 1
+    400478: cupcake:pasted__pCube3
+    400480: cupcake:pasted__pCube3 1
+    400482: cupcake:pasted__pCube4
+    400484: cupcake:pasted__pCube4 1
+    400486: cupcake:pasted__pCube5
+    400488: cupcake:pasted__pCube5 1
+    400490: cupcake:pasted__pCube6
+    400492: cupcake:pasted__pCube7
+    400494: cupcake:pasted__pCylinder1
+    400496: cupcake:pasted__pCylinder2
+    400498: cupcake:pasted__pCylinder3
+    400500: cupcake:pasted__pCylinder3 1
+    400502: cupcake:pasted__pCylinder3 2
+    400504: cupcake:pasted__pCylinder4
+    400506: cupcake:pasted__pCylinder4 1
+    400508: cupcake:pasted__pSphere1
+    400510: cupcake:pasted__pSphere1 1
+    400512: cupcake:pasted__pSphere2
+    400514: cupcake:pasted__transform1
+    400516: cupcake:pasted__transform10
+    400518: cupcake:pasted__transform11
+    400520: cupcake:pasted__transform12
+    400522: cupcake:pasted__transform13
+    400524: cupcake:pasted__transform14
+    400526: cupcake:pasted__transform15
+    400528: cupcake:pasted__transform2
+    400530: cupcake:pasted__transform3
+    400532: cupcake:pasted__transform3 1
+    400534: cupcake:pasted__transform3 2
+    400536: cupcake:pasted__transform4
+    400538: cupcake:pasted__transform4 1
+    400540: cupcake:pasted__transform4 2
+    400542: cupcake:pasted__transform5
+    400544: cupcake:pasted__transform6
+    400546: cupcake:pasted__transform7
+    400548: cupcake:pasted__transform8
+    400550: cupcake:pasted__transform9
+    400552: cupcake:pCube4
+    400554: cupcake:pCube5
+    400556: cupcake:pCube6
+    400558: cupcake:pCube7
+    400560: cupcake:pCylinder1
+    400562: cupcake:pCylinder2
+    400564: cupcake:pCylinder3
+    400566: cupcake:pCylinder4
+    400568: cupcake:pCylinder5
+    400570: cupcake:pCylinder6
+    400572: cupcake:pCylinder7
+    400574: cupcake:pCylinder8
+    400576: cupcake:polySurface1
+    400578: cupcake:polySurface10
+    400580: cupcake:polySurface11
+    400582: cupcake:polySurface12
+    400584: cupcake:polySurface13
+    400586: cupcake:polySurface14
+    400588: cupcake:polySurface15
+    400590: cupcake:polySurface16
+    400592: cupcake:polySurface17
+    400594: cupcake:polySurface18
+    400596: cupcake:polySurface19
+    400598: cupcake:polySurface2
+    400600: cupcake:polySurface20
+    400602: cupcake:polySurface21
+    400604: cupcake:polySurface22
+    400606: cupcake:polySurface23
+    400608: cupcake:polySurface24
+    400610: cupcake:polySurface25
+    400612: cupcake:polySurface3
+    400614: cupcake:polySurface4
+    400616: cupcake:polySurface5
+    400618: cupcake:polySurface6
+    400620: cupcake:polySurface7
+    400622: cupcake:polySurface8
+    400624: cupcake:polySurface9
+    400626: cupcake:transform1
+    400628: cupcake:transform10
+    400630: cupcake:transform11
+    400632: cupcake:transform12
+    400634: cupcake:transform13
+    400636: cupcake:transform14
+    400638: cupcake:transform15
+    400640: cupcake:transform2
+    400642: cupcake:transform3
+    400644: cupcake:transform4
+    400646: cupcake:transform5
+    400648: cupcake:transform6
+    400650: cupcake:transform7
+    400652: cupcake:transform8
+    400654: cupcake:transform9
+    400656: dounut:back
+    400658: dounut:group
+    400660: dounut:group1
+    400662: dounut:group10
+    400664: dounut:group11
+    400666: dounut:group2
+    400668: dounut:group3
+    400670: dounut:group4
+    400672: dounut:group5
+    400674: dounut:group6
+    400676: dounut:group7
+    400678: dounut:group8
+    400680: dounut:group9
+    400682: dounut:pasted__group
+    400684: dounut:pasted__group 1
+    400686: dounut:pasted__group1
+    400688: dounut:pasted__group1 1
+    400690: dounut:pasted__group2
+    400692: dounut:pasted__group2 1
+    400694: dounut:pasted__group3
+    400696: dounut:pasted__group4
+    400698: dounut:pasted__group4 1
+    400700: dounut:pasted__group4 2
+    400702: dounut:pasted__group4 3
+    400704: dounut:pasted__group6
+    400706: dounut:pasted__group6 1
+    400708: dounut:pasted__group8
+    400710: dounut:pasted__pasted__group
+    400712: dounut:pasted__pasted__group1
+    400714: dounut:pasted__pasted__group1 1
+    400716: dounut:pasted__pasted__group2
+    400718: dounut:pasted__pasted__group2 1
+    400720: dounut:pasted__pasted__group3
+    400722: dounut:pasted__pasted__group3 1
+    400724: dounut:pasted__pasted__group4
+    400726: dounut:pasted__pasted__group4 1
+    400728: dounut:pasted__pasted__group4 2
+    400730: dounut:pasted__pasted__pasted__group2
+    400732: dounut:pasted__pasted__pasted__group2 1
+    400734: dounut:pasted__pasted__pasted__group3
+    400736: dounut:pasted__pasted__pasted__group3 1
+    400738: dounut:pasted__pasted__pasted__pasted__group2
+    400740: dounut:pasted__pasted__pasted__pasted__group2 1
+    400742: dounut:pasted__pasted__pasted__pasted__pasted__pCylinder1
+    400744: dounut:pasted__pasted__pasted__pasted__pasted__pCylinder1 1
+    400746: dounut:pasted__pasted__pasted__pasted__pCylinder1
+    400748: dounut:pasted__pasted__pasted__pasted__pCylinder1 1
+    400750: dounut:pasted__pasted__pasted__pCylinder1
+    400752: dounut:pasted__pasted__pasted__pCylinder1 1
+    400754: dounut:pasted__pasted__pasted__pCylinder1 2
+    400756: dounut:pasted__pasted__pasted__pCylinder1 3
+    400758: dounut:pasted__pasted__pasted__pCylinder1 4
+    400760: dounut:pasted__pasted__pasted__pCylinder1 5
+    400762: dounut:pasted__pasted__pCylinder1
+    400764: dounut:pasted__pasted__pCylinder1 1
+    400766: dounut:pasted__pasted__pCylinder1 2
+    400768: dounut:pasted__pasted__pCylinder1 3
+    400770: dounut:pasted__pasted__pCylinder1 4
+    400772: dounut:pasted__pasted__pCylinder1 5
+    400774: dounut:pasted__pasted__pCylinder1 6
+    400776: dounut:pasted__pCylinder1
+    400778: dounut:pasted__pCylinder1 1
+    400780: dounut:pasted__pCylinder1 2
+    400782: dounut:pasted__pCylinder1 3
+    400784: dounut:pasted__pCylinder1 4
+    400786: dounut:pCylinder1
+    400788: dounut:polySurface2
+    400790: dounut:polySurface2 1
+    400792: dounut:polySurface3
+    400794: dounut:polySurface4
+    400796: dounut:pTorus1
+    400798: dounut:pTorus2
+    400800: dounut:transform1
+    400802: dounut:transform2
+    400804: dounut:transform3
+    400806: dounut:transform4
+    400808: ginger1:group
+    400810: ginger1:group1
+    400812: ginger1:group10
+    400814: ginger1:group2
+    400816: ginger1:group3
+    400818: ginger1:group4
+    400820: ginger1:group5
+    400822: ginger1:group6
+    400824: ginger1:group7
+    400826: ginger1:group8
+    400828: ginger1:group9
+    400830: ginger1:pasted__group2
+    400832: ginger1:pasted__group4
+    400834: ginger1:pasted__group5
+    400836: ginger1:pasted__group8
+    400838: ginger1:pasted__group8 1
+    400840: ginger1:pasted__pasted__group4
+    400842: ginger1:pasted__pasted__pCube7
+    400844: ginger1:pasted__pasted__pSphere1
+    400846: ginger1:pasted__pasted__pSphere2
+    400848: ginger1:pasted__pCube1
+    400850: ginger1:pasted__pCube7
+    400852: ginger1:pasted__pSphere1
+    400854: ginger1:pasted__pSphere2
+    400856: ginger1:pCube1
+    400858: ginger1:pCube2
+    400860: ginger1:pCube3
+    400862: ginger1:pCube4
+    400864: ginger1:pCube5
+    400866: ginger1:pCube6
+    400868: ginger1:pCube7
+    400870: ginger1:pSphere1
+    400872: ginger1:transform1
+    400874: ginger1:transform2
+    400876: ginger1:transform3
+    400878: ginger1:transform4
+    400880: group
+    400882: group 1
+    400884: group1
+    400886: group10
+    400888: group11
+    400890: group12
+    400892: group13
+    400894: group14
+    400896: group2
+    400898: group3
+    400900: group4
+    400902: group5
+    400904: group6
+    400906: group7
+    400908: group8
+    400910: group9
+    400912: pasted__group
+    400914: pasted__group 1
+    400916: pasted__group 2
+    400918: pasted__group1
+    400920: pasted__group1 1
+    400922: pasted__group10
+    400924: pasted__group11
+    400926: pasted__group12
+    400928: pasted__group13
+    400930: pasted__group14
+    400932: pasted__group15
+    400934: pasted__group16
+    400936: pasted__group17
+    400938: pasted__group2
+    400940: pasted__group2 1
+    400942: pasted__group2 2
+    400944: pasted__group3
+    400946: pasted__group3 1
+    400948: pasted__group3 2
+    400950: pasted__group4
+    400952: pasted__group5
+    400954: pasted__group7
+    400956: pasted__group9
+    400958: pasted__pasted__group
+    400960: pasted__pasted__group 1
+    400962: pasted__pasted__group 2
+    400964: pasted__pasted__group 3
+    400966: pasted__pasted__group1
+    400968: pasted__pasted__group1 1
+    400970: pasted__pasted__group1 2
+    400972: pasted__pasted__group1 3
+    400974: pasted__pasted__group1 4
+    400976: pasted__pasted__group1 5
+    400978: pasted__pasted__group1 6
+    400980: pasted__pasted__group2
+    400982: pasted__pasted__group3
+    400984: pasted__pasted__group7
+    400986: pasted__pasted__group8
+    400988: pasted__pasted__pasted__group
+    400990: pasted__pasted__pasted__group 1
+    400992: pasted__pasted__pasted__group 2
+    400994: pasted__pasted__pasted__group 3
+    400996: pasted__pasted__pasted__group 4
+    400998: pasted__pasted__pasted__group 5
+    401000: pasted__pasted__pasted__group 6
+    401002: pasted__pasted__pasted__group 7
+    401004: pasted__pasted__pasted__group1
+    401006: pasted__pasted__pasted__group2
+    401008: pasted__pasted__pasted__pasted__group
+    401010: pasted__pasted__pasted__pasted__group1
+    401012: pasted__pasted__pasted__pasted__pasted__group
+    401014: pasted__pasted__pasted__pasted__pasted__pSphere1
+    401016: pasted__pasted__pasted__pasted__pSphere1
+    401018: pasted__pasted__pasted__pasted__pSphere1 1
+    401020: pasted__pasted__pasted__pasted__pSphere1 2
+    401022: pasted__pasted__pasted__pasted__pSphere1 3
+    401024: pasted__pasted__pasted__pSphere1
+    401026: pCube1
+    401028: pCube10
+    401030: pCube11
+    401032: pCube4
+    401034: pCube5
+    401036: pCube6
+    401038: pCube7
+    401040: pCube8
+    401042: pCube9
+    401044: pCylinder3
+    401046: pCylinder4
+    401048: polySurface2
+    401050: polySurface3
+    401052: polySurface4
+    401054: polySurface5
+    401056: polySurface6
+    401058: pudi:group
+    401060: pudi:group1
+    401062: pudi:group10
+    401064: pudi:group11
+    401066: pudi:group12
+    401068: pudi:group13
+    401070: pudi:group2
+    401072: pudi:group3
+    401074: pudi:group4
+    401076: pudi:group5
+    401078: pudi:group6
+    401080: pudi:group7
+    401082: pudi:group8
+    401084: pudi:group9
+    401086: pudi:nurbsToPoly1
+    401088: pudi:nurbsToPoly2
+    401090: pudi:pasted__group10
+    401092: pudi:pasted__group12
+    401094: pudi:pasted__group18
+    401096: pudi:pasted__group19
+    401098: pudi:pasted__group2
+    401100: pudi:pasted__group21
+    401102: pudi:pasted__group22
+    401104: pudi:pasted__group6
+    401106: pudi:pasted__group6 1
+    401108: pudi:pasted__group9
+    401110: pudi:pasted__nurbsToPoly1
+    401112: pudi:pasted__nurbsToPoly1 1
+    401114: pudi:pasted__pasted__group18
+    401116: pudi:pasted__pasted__group19
+    401118: pudi:pasted__pasted__group9
+    401120: pudi:pasted__pasted__nurbsToPoly1
+    401122: pudi:pasted__pasted__pasted__pCube1
+    401124: pudi:pasted__pasted__pasted__pCube1 1
+    401126: pudi:pasted__pasted__pasted__pSphere2
+    401128: pudi:pasted__pasted__pCube1
+    401130: pudi:pasted__pasted__pCube1 1
+    401132: pudi:pasted__pasted__pCylinder3
+    401134: pudi:pasted__pasted__pCylinder4
+    401136: pudi:pasted__pasted__pCylinder5
+    401138: pudi:pasted__pasted__pSphere2
+    401140: pudi:pasted__pasted__pSphere2 1
+    401142: pudi:pasted__pasted__transform1
+    401144: pudi:pasted__pasted__transform3
+    401146: pudi:pasted__pasted__transform4
+    401148: pudi:pasted__pCube1
+    401150: pudi:pasted__pCube1 1
+    401152: pudi:pasted__pCube3
+    401154: pudi:pasted__pCube3 1
+    401156: pudi:pasted__pSphere1
+    401158: pudi:pasted__pSphere2
+    401160: pudi:pasted__pSphere2 1
+    401162: pudi:pasted__transform1
+    401164: pudi:pasted__transform1 1
+    401166: pudi:polySurface1
+    401168: pudi:pSphere2
+    401170: pudi:transform1
+    401172: pudi:transform10
+    401174: pudi:transform11
+    401176: pudi:transform12
+    401178: pudi:transform13
+    401180: pudi:transform14
+    401182: pudi:transform15
+    401184: pudi:transform16
+    401186: pudi:transform17
+    401188: pudi:transform18
+    401190: pudi:transform19
+    401192: pudi:transform2
+    401194: pudi:transform3
+    401196: pudi:transform4
+    401198: pudi:transform5
+    401200: pudi:transform6
+    401202: pudi:transform7
+    401204: pudi:transform8
+    401206: pudi:transform9
+    401208: //RootNode
+    401210: transform1
+    401212: transform2
+    401214: transform3
+    401216: transform4
+    2300000: BOING_text:polySurface2
+    2300002: BOING_text:polySurface4
+    2300004: BOING_text:polySurface5
+    2300006: BOING_text:polySurface6
+    2300008: cake:pCube2
+    2300010: cupcake:cupcake:polySurface1
+    2300012: cupcake:pasted__nurbsToPoly1
+    2300014: cupcake:pasted__pSphere2
+    2300016: cupcake:pCube4
+    2300018: cupcake:pCube5
+    2300020: cupcake:pCube6
+    2300022: cupcake:pCube7
+    2300024: cupcake:pCylinder5
+    2300026: cupcake:pCylinder6
+    2300028: cupcake:pCylinder7
+    2300030: cupcake:pCylinder8
+    2300032: ginger1:pasted__pasted__pCube7
+    2300034: ginger1:pasted__pasted__pSphere1
+    2300036: ginger1:pasted__pasted__pSphere2
+    2300038: ginger1:pasted__pCube1
+    2300040: ginger1:pasted__pCube7
+    2300042: ginger1:pasted__pSphere1
+    2300044: ginger1:pasted__pSphere2
+    2300046: ginger1:pCube3
+    2300048: ginger1:pCube6
+    2300050: ginger1:pCube7
+    2300052: ginger1:pSphere1
+    2300054: pCube1
+    2300056: pCube10
+    2300058: pCube11
+    2300060: pCube4
+    2300062: pCube5
+    2300064: pCube6
+    2300066: pCube7
+    2300068: pCube8
+    2300070: pCube9
+    2300072: polySurface2
+    2300074: polySurface3
+    2300076: polySurface4
+    2300078: polySurface5
+    2300080: polySurface6
+    3300000: BOING_text:polySurface2
+    3300002: BOING_text:polySurface4
+    3300004: BOING_text:polySurface5
+    3300006: BOING_text:polySurface6
+    3300008: cake:pCube2
+    3300010: cupcake:cupcake:polySurface1
+    3300012: cupcake:pasted__nurbsToPoly1
+    3300014: cupcake:pasted__pSphere2
+    3300016: cupcake:pCube4
+    3300018: cupcake:pCube5
+    3300020: cupcake:pCube6
+    3300022: cupcake:pCube7
+    3300024: cupcake:pCylinder5
+    3300026: cupcake:pCylinder6
+    3300028: cupcake:pCylinder7
+    3300030: cupcake:pCylinder8
+    3300032: ginger1:pasted__pasted__pCube7
+    3300034: ginger1:pasted__pasted__pSphere1
+    3300036: ginger1:pasted__pasted__pSphere2
+    3300038: ginger1:pasted__pCube1
+    3300040: ginger1:pasted__pCube7
+    3300042: ginger1:pasted__pSphere1
+    3300044: ginger1:pasted__pSphere2
+    3300046: ginger1:pCube3
+    3300048: ginger1:pCube6
+    3300050: ginger1:pCube7
+    3300052: ginger1:pSphere1
+    3300054: pCube1
+    3300056: pCube10
+    3300058: pCube11
+    3300060: pCube4
+    3300062: pCube5
+    3300064: pCube6
+    3300066: pCube7
+    3300068: pCube8
+    3300070: pCube9
+    3300072: polySurface2
+    3300074: polySurface3
+    3300076: polySurface4
+    3300078: polySurface5
+    3300080: polySurface6
+    4300000: pCube1
+    4300002: cake:pCube2
+    4300004: pCube5
+    4300006: pCube6
+    4300008: pCube7
+    4300010: pCube8
+    4300012: pCube9
+    4300014: pCube10
+    4300016: pCube11
+    4300018: cupcake:pCube7
+    4300020: cupcake:pCylinder5
+    4300022: ginger1:pCube3
+    4300024: ginger1:pSphere1
+    4300026: ginger1:pasted__pSphere1
+    4300028: ginger1:pCube6
+    4300030: ginger1:pCube7
+    4300032: ginger1:pasted__pCube7
+    4300034: ginger1:pasted__pasted__pSphere1
+    4300036: ginger1:pasted__pSphere2
+    4300038: ginger1:pasted__pasted__pSphere2
+    4300040: ginger1:pasted__pCube1
+    4300042: ginger1:pasted__pasted__pCube7
+    4300044: pCube4
+    4300046: BOING_text:polySurface2
+    4300048: BOING_text:polySurface4
+    4300050: BOING_text:polySurface5
+    4300052: BOING_text:polySurface6
+    4300054: polySurface2
+    4300056: polySurface3
+    4300058: polySurface4
+    4300060: polySurface5
+    4300062: polySurface6
+    4300064: cupcake:pasted__nurbsToPoly1
+    4300066: cupcake:pCylinder6
+    4300068: cupcake:pCylinder7
+    4300070: cupcake:pCylinder8
+    4300072: cupcake:pasted__pSphere2
+    4300074: cupcake:pCube4
+    4300076: cupcake:pCube5
+    4300078: cupcake:pCube6
+    4300080: cupcake:cupcake:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
