@@ -1,0 +1,19 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R9 270 (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2022 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\sdafsdafsdfa\Let's Race_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\sdafsdafsdfa\Let's Race_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\sdafsdafsdfa\Let's Race_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\sdafsdafsdfa\Let's Race_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\sdafsdafsdfa\Let's Race_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\sdafsdafsdfa\Let's Race_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
