@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: d0a87c9a335461949abe02bedf0178a2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bevelPolygon10
+    100002: bevelPolygon11
+    100004: bevelPolygon12
+    100006: bevelPolygon13
+    100008: bevelPolygon14
+    100010: bevelPolygon15
+    100012: bevelPolygon16
+    100014: bevelPolygon17
+    100016: bevelPolygon18
+    100018: bevelPolygon19
+    100020: bevelPolygon20
+    100022: bevelPolygon21
+    100024: bevelPolygon22
+    100026: bevelPolygon23
+    100028: bevelPolygon24
+    100030: bevelPolygon25
+    100032: bevelPolygon26
+    100034: bevelPolygon27
+    100036: bevelPolygon28
+    100038: bevelPolygon29
+    100040: bevelPolygon3
+    100042: bevelPolygon30
+    100044: bevelPolygon31
+    100046: bevelPolygon32
+    100048: bevelPolygon33
+    100050: bevelPolygon34
+    100052: bevelPolygon35
+    100054: bevelPolygon36
+    100056: bevelPolygon37
+    100058: bevelPolygon38
+    100060: bevelPolygon39
+    100062: bevelPolygon4
+    100064: bevelPolygon5
+    100066: bevelPolygon6
+    100068: bevelPolygon7
+    100070: bevelPolygon8
+    100072: bevelPolygon9
+    100074: curve1
+    100076: //RootNode
+    100078: nurbsCircle6
+    100080: nurbsCircle7
+    100082: pCylinder1
+    100084: pCylinder2
+    100086: pCylinder3
+    100088: pCylinder3_MeshPart0
+    100090: pCylinder3_MeshPart1
+    100092: pCylinder3_MeshPart2
+    100094: transform1
+    100096: transform10
+    100098: transform11
+    100100: transform12
+    100102: transform13
+    100104: transform14
+    100106: transform15
+    100108: transform16
+    100110: transform17
+    100112: transform18
+    100114: transform19
+    100116: transform2
+    100118: transform20
+    100120: transform21
+    100122: transform22
+    100124: transform23
+    100126: transform24
+    100128: transform25
+    100130: transform26
+    100132: transform27
+    100134: transform28
+    100136: transform29
+    100138: transform3
+    100140: transform30
+    100142: transform31
+    100144: transform32
+    100146: transform33
+    100148: transform34
+    100150: transform35
+    100152: transform36
+    100154: transform37
+    100156: transform38
+    100158: transform39
+    100160: transform4
+    100162: transform5
+    100164: transform6
+    100166: transform7
+    100168: transform8
+    100170: transform9
+    400000: bevelPolygon10
+    400002: bevelPolygon11
+    400004: bevelPolygon12
+    400006: bevelPolygon13
+    400008: bevelPolygon14
+    400010: bevelPolygon15
+    400012: bevelPolygon16
+    400014: bevelPolygon17
+    400016: bevelPolygon18
+    400018: bevelPolygon19
+    400020: bevelPolygon20
+    400022: bevelPolygon21
+    400024: bevelPolygon22
+    400026: bevelPolygon23
+    400028: bevelPolygon24
+    400030: bevelPolygon25
+    400032: bevelPolygon26
+    400034: bevelPolygon27
+    400036: bevelPolygon28
+    400038: bevelPolygon29
+    400040: bevelPolygon3
+    400042: bevelPolygon30
+    400044: bevelPolygon31
+    400046: bevelPolygon32
+    400048: bevelPolygon33
+    400050: bevelPolygon34
+    400052: bevelPolygon35
+    400054: bevelPolygon36
+    400056: bevelPolygon37
+    400058: bevelPolygon38
+    400060: bevelPolygon39
+    400062: bevelPolygon4
+    400064: bevelPolygon5
+    400066: bevelPolygon6
+    400068: bevelPolygon7
+    400070: bevelPolygon8
+    400072: bevelPolygon9
+    400074: curve1
+    400076: //RootNode
+    400078: nurbsCircle6
+    400080: nurbsCircle7
+    400082: pCylinder1
+    400084: pCylinder2
+    400086: pCylinder3
+    400088: pCylinder3_MeshPart0
+    400090: pCylinder3_MeshPart1
+    400092: pCylinder3_MeshPart2
+    400094: transform1
+    400096: transform10
+    400098: transform11
+    400100: transform12
+    400102: transform13
+    400104: transform14
+    400106: transform15
+    400108: transform16
+    400110: transform17
+    400112: transform18
+    400114: transform19
+    400116: transform2
+    400118: transform20
+    400120: transform21
+    400122: transform22
+    400124: transform23
+    400126: transform24
+    400128: transform25
+    400130: transform26
+    400132: transform27
+    400134: transform28
+    400136: transform29
+    400138: transform3
+    400140: transform30
+    400142: transform31
+    400144: transform32
+    400146: transform33
+    400148: transform34
+    400150: transform35
+    400152: transform36
+    400154: transform37
+    400156: transform38
+    400158: transform39
+    400160: transform4
+    400162: transform5
+    400164: transform6
+    400166: transform7
+    400168: transform8
+    400170: transform9
+    2300000: pCylinder3_MeshPart0
+    2300002: pCylinder3_MeshPart1
+    2300004: pCylinder3_MeshPart2
+    3300000: pCylinder3_MeshPart0
+    3300002: pCylinder3_MeshPart1
+    3300004: pCylinder3_MeshPart2
+    4300000: pCylinder3_MeshPart0
+    4300002: pCylinder3_MeshPart1
+    4300004: pCylinder3_MeshPart2
+    7400000: normal
+    7400002: power
+    7400004: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: normal
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bevelPolygon3
+        weight: 1
+      - path: bevelPolygon3/transform37
+        weight: 1
+      - path: bevelPolygon4
+        weight: 1
+      - path: bevelPolygon4/transform36
+        weight: 1
+      - path: bevelPolygon5
+        weight: 1
+      - path: bevelPolygon5/transform35
+        weight: 1
+      - path: bevelPolygon6
+        weight: 1
+      - path: bevelPolygon6/transform34
+        weight: 1
+      - path: bevelPolygon7
+        weight: 1
+      - path: bevelPolygon7/transform33
+        weight: 1
+      - path: bevelPolygon8
+        weight: 1
+      - path: bevelPolygon8/transform32
+        weight: 1
+      - path: bevelPolygon9
+        weight: 1
+      - path: bevelPolygon9/transform31
+        weight: 1
+      - path: bevelPolygon10
+        weight: 1
+      - path: bevelPolygon10/transform30
+        weight: 1
+      - path: bevelPolygon11
+        weight: 1
+      - path: bevelPolygon11/transform29
+        weight: 1
+      - path: bevelPolygon12
+        weight: 1
+      - path: bevelPolygon12/transform28
+        weight: 1
+      - path: bevelPolygon13
+        weight: 1
+      - path: bevelPolygon13/transform27
+        weight: 1
+      - path: bevelPolygon14
+        weight: 1
+      - path: bevelPolygon14/transform26
+        weight: 1
+      - path: bevelPolygon15
+        weight: 1
+      - path: bevelPolygon15/transform25
+        weight: 1
+      - path: bevelPolygon16
+        weight: 1
+      - path: bevelPolygon16/transform24
+        weight: 1
+      - path: bevelPolygon17
+        weight: 1
+      - path: bevelPolygon17/transform23
+        weight: 1
+      - path: bevelPolygon18
+        weight: 1
+      - path: bevelPolygon18/transform22
+        weight: 1
+      - path: bevelPolygon19
+        weight: 1
+      - path: bevelPolygon19/transform21
+        weight: 1
+      - path: bevelPolygon20
+        weight: 1
+      - path: bevelPolygon20/transform20
+        weight: 1
+      - path: bevelPolygon21
+        weight: 1
+      - path: bevelPolygon21/transform19
+        weight: 1
+      - path: bevelPolygon22
+        weight: 1
+      - path: bevelPolygon22/transform18
+        weight: 1
+      - path: bevelPolygon23
+        weight: 1
+      - path: bevelPolygon23/transform17
+        weight: 1
+      - path: bevelPolygon24
+        weight: 1
+      - path: bevelPolygon24/transform16
+        weight: 1
+      - path: bevelPolygon25
+        weight: 1
+      - path: bevelPolygon25/transform15
+        weight: 1
+      - path: bevelPolygon26
+        weight: 1
+      - path: bevelPolygon26/transform14
+        weight: 1
+      - path: bevelPolygon27
+        weight: 1
+      - path: bevelPolygon27/transform13
+        weight: 1
+      - path: bevelPolygon28
+        weight: 1
+      - path: bevelPolygon28/transform12
+        weight: 1
+      - path: bevelPolygon29
+        weight: 1
+      - path: bevelPolygon29/transform11
+        weight: 1
+      - path: bevelPolygon30
+        weight: 1
+      - path: bevelPolygon30/transform10
+        weight: 1
+      - path: bevelPolygon31
+        weight: 1
+      - path: bevelPolygon31/transform9
+        weight: 1
+      - path: bevelPolygon32
+        weight: 1
+      - path: bevelPolygon32/transform8
+        weight: 1
+      - path: bevelPolygon33
+        weight: 1
+      - path: bevelPolygon33/transform7
+        weight: 1
+      - path: bevelPolygon34
+        weight: 1
+      - path: bevelPolygon34/transform6
+        weight: 1
+      - path: bevelPolygon35
+        weight: 1
+      - path: bevelPolygon35/transform5
+        weight: 1
+      - path: bevelPolygon36
+        weight: 1
+      - path: bevelPolygon36/transform4
+        weight: 1
+      - path: bevelPolygon37
+        weight: 1
+      - path: bevelPolygon37/transform3
+        weight: 1
+      - path: bevelPolygon38
+        weight: 1
+      - path: bevelPolygon38/transform2
+        weight: 1
+      - path: bevelPolygon39
+        weight: 1
+      - path: bevelPolygon39/transform1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: nurbsCircle6
+        weight: 1
+      - path: nurbsCircle6/transform38
+        weight: 1
+      - path: nurbsCircle7
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform39
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart0
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart1
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: power
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bevelPolygon3
+        weight: 1
+      - path: bevelPolygon3/transform37
+        weight: 1
+      - path: bevelPolygon4
+        weight: 1
+      - path: bevelPolygon4/transform36
+        weight: 1
+      - path: bevelPolygon5
+        weight: 1
+      - path: bevelPolygon5/transform35
+        weight: 1
+      - path: bevelPolygon6
+        weight: 1
+      - path: bevelPolygon6/transform34
+        weight: 1
+      - path: bevelPolygon7
+        weight: 1
+      - path: bevelPolygon7/transform33
+        weight: 1
+      - path: bevelPolygon8
+        weight: 1
+      - path: bevelPolygon8/transform32
+        weight: 1
+      - path: bevelPolygon9
+        weight: 1
+      - path: bevelPolygon9/transform31
+        weight: 1
+      - path: bevelPolygon10
+        weight: 1
+      - path: bevelPolygon10/transform30
+        weight: 1
+      - path: bevelPolygon11
+        weight: 1
+      - path: bevelPolygon11/transform29
+        weight: 1
+      - path: bevelPolygon12
+        weight: 1
+      - path: bevelPolygon12/transform28
+        weight: 1
+      - path: bevelPolygon13
+        weight: 1
+      - path: bevelPolygon13/transform27
+        weight: 1
+      - path: bevelPolygon14
+        weight: 1
+      - path: bevelPolygon14/transform26
+        weight: 1
+      - path: bevelPolygon15
+        weight: 1
+      - path: bevelPolygon15/transform25
+        weight: 1
+      - path: bevelPolygon16
+        weight: 1
+      - path: bevelPolygon16/transform24
+        weight: 1
+      - path: bevelPolygon17
+        weight: 1
+      - path: bevelPolygon17/transform23
+        weight: 1
+      - path: bevelPolygon18
+        weight: 1
+      - path: bevelPolygon18/transform22
+        weight: 1
+      - path: bevelPolygon19
+        weight: 1
+      - path: bevelPolygon19/transform21
+        weight: 1
+      - path: bevelPolygon20
+        weight: 1
+      - path: bevelPolygon20/transform20
+        weight: 1
+      - path: bevelPolygon21
+        weight: 1
+      - path: bevelPolygon21/transform19
+        weight: 1
+      - path: bevelPolygon22
+        weight: 1
+      - path: bevelPolygon22/transform18
+        weight: 1
+      - path: bevelPolygon23
+        weight: 1
+      - path: bevelPolygon23/transform17
+        weight: 1
+      - path: bevelPolygon24
+        weight: 1
+      - path: bevelPolygon24/transform16
+        weight: 1
+      - path: bevelPolygon25
+        weight: 1
+      - path: bevelPolygon25/transform15
+        weight: 1
+      - path: bevelPolygon26
+        weight: 1
+      - path: bevelPolygon26/transform14
+        weight: 1
+      - path: bevelPolygon27
+        weight: 1
+      - path: bevelPolygon27/transform13
+        weight: 1
+      - path: bevelPolygon28
+        weight: 1
+      - path: bevelPolygon28/transform12
+        weight: 1
+      - path: bevelPolygon29
+        weight: 1
+      - path: bevelPolygon29/transform11
+        weight: 1
+      - path: bevelPolygon30
+        weight: 1
+      - path: bevelPolygon30/transform10
+        weight: 1
+      - path: bevelPolygon31
+        weight: 1
+      - path: bevelPolygon31/transform9
+        weight: 1
+      - path: bevelPolygon32
+        weight: 1
+      - path: bevelPolygon32/transform8
+        weight: 1
+      - path: bevelPolygon33
+        weight: 1
+      - path: bevelPolygon33/transform7
+        weight: 1
+      - path: bevelPolygon34
+        weight: 1
+      - path: bevelPolygon34/transform6
+        weight: 1
+      - path: bevelPolygon35
+        weight: 1
+      - path: bevelPolygon35/transform5
+        weight: 1
+      - path: bevelPolygon36
+        weight: 1
+      - path: bevelPolygon36/transform4
+        weight: 1
+      - path: bevelPolygon37
+        weight: 1
+      - path: bevelPolygon37/transform3
+        weight: 1
+      - path: bevelPolygon38
+        weight: 1
+      - path: bevelPolygon38/transform2
+        weight: 1
+      - path: bevelPolygon39
+        weight: 1
+      - path: bevelPolygon39/transform1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: nurbsCircle6
+        weight: 1
+      - path: nurbsCircle6/transform38
+        weight: 1
+      - path: nurbsCircle7
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform39
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart0
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart1
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1.10000002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bevelPolygon3
+        weight: 1
+      - path: bevelPolygon3/transform37
+        weight: 1
+      - path: bevelPolygon4
+        weight: 1
+      - path: bevelPolygon4/transform36
+        weight: 1
+      - path: bevelPolygon5
+        weight: 1
+      - path: bevelPolygon5/transform35
+        weight: 1
+      - path: bevelPolygon6
+        weight: 1
+      - path: bevelPolygon6/transform34
+        weight: 1
+      - path: bevelPolygon7
+        weight: 1
+      - path: bevelPolygon7/transform33
+        weight: 1
+      - path: bevelPolygon8
+        weight: 1
+      - path: bevelPolygon8/transform32
+        weight: 1
+      - path: bevelPolygon9
+        weight: 1
+      - path: bevelPolygon9/transform31
+        weight: 1
+      - path: bevelPolygon10
+        weight: 1
+      - path: bevelPolygon10/transform30
+        weight: 1
+      - path: bevelPolygon11
+        weight: 1
+      - path: bevelPolygon11/transform29
+        weight: 1
+      - path: bevelPolygon12
+        weight: 1
+      - path: bevelPolygon12/transform28
+        weight: 1
+      - path: bevelPolygon13
+        weight: 1
+      - path: bevelPolygon13/transform27
+        weight: 1
+      - path: bevelPolygon14
+        weight: 1
+      - path: bevelPolygon14/transform26
+        weight: 1
+      - path: bevelPolygon15
+        weight: 1
+      - path: bevelPolygon15/transform25
+        weight: 1
+      - path: bevelPolygon16
+        weight: 1
+      - path: bevelPolygon16/transform24
+        weight: 1
+      - path: bevelPolygon17
+        weight: 1
+      - path: bevelPolygon17/transform23
+        weight: 1
+      - path: bevelPolygon18
+        weight: 1
+      - path: bevelPolygon18/transform22
+        weight: 1
+      - path: bevelPolygon19
+        weight: 1
+      - path: bevelPolygon19/transform21
+        weight: 1
+      - path: bevelPolygon20
+        weight: 1
+      - path: bevelPolygon20/transform20
+        weight: 1
+      - path: bevelPolygon21
+        weight: 1
+      - path: bevelPolygon21/transform19
+        weight: 1
+      - path: bevelPolygon22
+        weight: 1
+      - path: bevelPolygon22/transform18
+        weight: 1
+      - path: bevelPolygon23
+        weight: 1
+      - path: bevelPolygon23/transform17
+        weight: 1
+      - path: bevelPolygon24
+        weight: 1
+      - path: bevelPolygon24/transform16
+        weight: 1
+      - path: bevelPolygon25
+        weight: 1
+      - path: bevelPolygon25/transform15
+        weight: 1
+      - path: bevelPolygon26
+        weight: 1
+      - path: bevelPolygon26/transform14
+        weight: 1
+      - path: bevelPolygon27
+        weight: 1
+      - path: bevelPolygon27/transform13
+        weight: 1
+      - path: bevelPolygon28
+        weight: 1
+      - path: bevelPolygon28/transform12
+        weight: 1
+      - path: bevelPolygon29
+        weight: 1
+      - path: bevelPolygon29/transform11
+        weight: 1
+      - path: bevelPolygon30
+        weight: 1
+      - path: bevelPolygon30/transform10
+        weight: 1
+      - path: bevelPolygon31
+        weight: 1
+      - path: bevelPolygon31/transform9
+        weight: 1
+      - path: bevelPolygon32
+        weight: 1
+      - path: bevelPolygon32/transform8
+        weight: 1
+      - path: bevelPolygon33
+        weight: 1
+      - path: bevelPolygon33/transform7
+        weight: 1
+      - path: bevelPolygon34
+        weight: 1
+      - path: bevelPolygon34/transform6
+        weight: 1
+      - path: bevelPolygon35
+        weight: 1
+      - path: bevelPolygon35/transform5
+        weight: 1
+      - path: bevelPolygon36
+        weight: 1
+      - path: bevelPolygon36/transform4
+        weight: 1
+      - path: bevelPolygon37
+        weight: 1
+      - path: bevelPolygon37/transform3
+        weight: 1
+      - path: bevelPolygon38
+        weight: 1
+      - path: bevelPolygon38/transform2
+        weight: 1
+      - path: bevelPolygon39
+        weight: 1
+      - path: bevelPolygon39/transform1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: nurbsCircle6
+        weight: 1
+      - path: nurbsCircle6/transform38
+        weight: 1
+      - path: nurbsCircle7
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform39
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart0
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart1
+        weight: 1
+      - path: pCylinder3/pCylinder3_MeshPart2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
