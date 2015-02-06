@@ -1,0 +1,356 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R9 270 (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2022 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mkartika\ETC-MKARTIKA_125\ETC-MKARTIKA_125\etc\classes\2014_semester_3\bvw\assignments\round2\team28\final\Jury\Help_Harold_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mkartika\ETC-MKARTIKA_125\ETC-MKARTIKA_125\etc\classes\2014_semester_3\bvw\assignments\round2\team28\final\Jury\Help_Harold_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mkartika\ETC-MKARTIKA_125\ETC-MKARTIKA_125\etc\classes\2014_semester_3\bvw\assignments\round2\team28\final\Jury\Help_Harold_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mkartika\ETC-MKARTIKA_125\ETC-MKARTIKA_125\etc\classes\2014_semester_3\bvw\assignments\round2\team28\final\Jury\Help_Harold_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+NuiInitialize Failed.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.Vector3].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Drawing.UpdateSlider () [0x00000] in <filename unknown>:0 
+  at Drawing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
