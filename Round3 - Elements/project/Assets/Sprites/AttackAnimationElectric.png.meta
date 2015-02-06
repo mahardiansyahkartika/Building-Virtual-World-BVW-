@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 8c06002cfcba9804e8c5ef4b10bf6f16
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteSheet
+    21300002: AttackAnimation
+    21300004: AttackAnimation_0
+    21300006: AttackAnimation_1
+    21300008: AttackAnimation_2
+    21300010: AttackAnimation_3
+    21300012: AttackAnimation_4
+    21300014: AttackAnimation_5
+    21300016: AttackAnimation_13
+    21300018: AttackAnimation_15
+    21300020: AttackAnimation_16
+    21300022: AttackAnimation_6
+    21300024: AttackAnimation_7
+    21300026: AttackAnimation_8
+    21300028: AttackAnimation_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AttackAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 245
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 255
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 252
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 250
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 120
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 39
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 28
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 17
+        width: 172
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AttackAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 6
+        width: 190
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
